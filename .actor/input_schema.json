@@ -8,7 +8,7 @@
             "title": "Keywords",
             "type": "array",
             "description": "One or more keywords for which we'll prepare backlink outreach",
-            "editor": "json",
+            "editor": "textfield",
             "prefill": [
                 "Best google search scrapers"
             ]
