@@ -6,7 +6,7 @@ The Backlink Building Agent is an automated agent designed to automate link-buil
 
 ---
 ## How it works
-![alt text](https://raw.githubusercontent.com/danpoletaev/backlink-outreach-js/main/diagram.png)
+![alt text](https://raw.githubusercontent.com/danpoletaev/backlink-outreach-js/refs/heads/main/diagram.png)
 
 
 ### This actor is open source. You can check source code [here](https://github.com/danpoletaev/backlink-outreach-js).
